@@ -154,7 +154,7 @@
                     layout: 'vertical'
                 },
                 title: {
-                    text: 'APM HYBRID LCEV',
+                    text: 'APM KBH2 LCEV',
                     verticalAlign: 'bottom',
                     align: 'center',
                 },

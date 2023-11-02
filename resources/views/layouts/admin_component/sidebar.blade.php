@@ -5,7 +5,7 @@
 
     <!-- Sidebar - Brand -->
     <a class="sidebar-brand d-flex align-items-center justify-content-center" href="http://127.0.0.1:8000">
-        <div class="sidebar-brand-text mx-3">HYBRID-LCEV</div>
+        <div class="sidebar-brand-text mx-3">KBH2-LCEV</div>
     </a>
 
     <!-- Nav Item - Dashboard -->
